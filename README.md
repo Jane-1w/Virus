@@ -4,15 +4,7 @@
 
 Please cite the following:
 
-- Xuemin Wei, Hongfeng Li, Zheng Y.X. Huang, Shuo Li, Yuhao Wang, Jie Lan, Li Hu, Yang Li, Daniel J. Becker, Fuwen Wei, Yifei Xu (2024) **Risk assessment of zoonotic viruses in urban-adapted wildlife**. _bioRxiv_ DOI: 10.1101/2024.12.18.629064
-        
-        
-        
-        
-        
-        
-        
-        . 
+- Xuemin Wei, Hongfeng Li, Zheng Y.X. Huang, Shuo Li, Yuhao Wang, Jie Lan, Li Hu, Yang Li, Daniel J. Becker, Fuwen Wei, Yifei Xu (2024) **Risk assessment of zoonotic viruses in urban-adapted wildlife**. _bioRxiv_ DOI: 10.1101/2024.12.18.629064. 
 
 ### What's in the dataset
 
