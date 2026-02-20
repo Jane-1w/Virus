@@ -8,6 +8,10 @@ Please cite the following:
         
         
         
+        
+        
+        
+        
         . 
 
 ### What's in the dataset
@@ -29,7 +33,7 @@ All other fields describe the actual  seven urban-adapted mammal species virus p
 |  Detection_method   |  Type of test used (e.g.,  PCR, ELISA)  |
 |  Positive_sample_number   |  The number of samples positive for coronaviruses (as identified below)  |
 |  Total_sample_number   |  The number of samples tested   |
-|  Positivity   |  Reported or estimated values of virus positivity across samples (should usually equal nPositive / nSamples)  |
+|  Positivity   |  Reported or estimated values of virus positivity across samples (should usually equal Positive_sample_number / Total_sample_number)  |
 |  Virusorder   |  The virus order |
 |  Virusfamily   |   The virus family  |
 |  Virusspecies   | The virus species |
