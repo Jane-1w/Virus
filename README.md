@@ -4,7 +4,11 @@
 
 Please cite the following:
 
-- Xuemin Wei, Hongfeng Li, Zheng Y.X. Huang, Shuo Li, Yuhao Wang, Jie Lan, Li Hu, Yang Li, Daniel J. Becker, Fuwen Wei, Yifei Xu (2024) **Risk assessment of zoonotic viruses in urban-adapted wildlife**. _bioRxiv_ DOI: 10.1101/2024.12.18.629064. 
+- Xuemin Wei, Hongfeng Li, Zheng Y.X. Huang, Shuo Li, Yuhao Wang, Jie Lan, Li Hu, Yang Li, Daniel J. Becker, Fuwen Wei, Yifei Xu (2024) **Risk assessment of zoonotic viruses in urban-adapted wildlife**. _bioRxiv_ DOI: 10.1101/2024.12.18.629064
+        
+        
+        
+        . 
 
 ### What's in the dataset
 
@@ -21,13 +25,13 @@ All other fields describe the actual  seven urban-adapted mammal species virus p
 |  column name | description |
 |  --------    |  --------------- |
 |  Virus   |  The name of virus family/genus/species |
-|  HostSpecies   |  The urban-adapted mammal species |
+|  Hostspecies   |  The urban-adapted mammal species |
 |  Detection_method   |  Type of test used (e.g.,  PCR, ELISA)  |
 |  Positive_sample_number   |  The number of samples positive for coronaviruses (as identified below)  |
 |  Total_sample_number   |  The number of samples tested   |
 |  Positivity   |  Reported or estimated values of virus positivity across samples (should usually equal nPositive / nSamples)  |
-|  VirusOrder   |  The virus order |
-|  VirusFamily   |   The virus family  |
-|  VirusSpecies   | The virus species |
+|  Virusorder   |  The virus order |
+|  Virusfamily   |   The virus family  |
+|  Virusspecies   | The virus species |
 |  Country   |   Country of sampling site  |
 |  Continents  |   Continents of sampling site  |
